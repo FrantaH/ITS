@@ -10,13 +10,11 @@ Na 1. projekt navazuje 2. projekt, ve kterém budete implementovat vámi navrže
 
 
 **Cíl 2. projektu**
----
 
 Vytvořte automatické testy (Selenium) pro vámi navrženou testovací sadu na 
 základě BDD scénářů.
 
-Úkoly
------
+**Úkoly**
 
 1. Nastudujte integrované prostředí pro tvorbu testů Selenium IDE:
 
